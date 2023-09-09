@@ -1412,7 +1412,6 @@ MonoBehaviour:
   _inv_db: {fileID: 11400000, guid: d05fc4b3dd346344483f8eb72f7d9318, type: 2}
   _hero_sc: {fileID: 1315251802}
   _stick: {fileID: 568673436}
-  _bullet: {fileID: 3316894384160712081, guid: 14ab08dbb2626bc45aa83774c820b5c5, type: 3}
 --- !u!1 &553169776
 GameObject:
   m_ObjectHideFlags: 0

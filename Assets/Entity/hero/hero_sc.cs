@@ -105,7 +105,7 @@ public class hero_sc : MonoBehaviour
             spd = _move_spd; 
         }
 
-        _rb.velocity = new Vector2(_move_v.x * spd, _move_v.y * spd);
+        _rb.velocity = _move_v.normalized * spd;
     }
     public void Flip(bool flip)
     {
